@@ -2,3 +2,7 @@ torch
 torchvision
 diffusers
 matplotlib
+ftfy
+accelerate
+git+https://github.com/huggingface/transformers
+scipy
